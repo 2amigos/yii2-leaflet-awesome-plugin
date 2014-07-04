@@ -18,7 +18,7 @@ use yii\web\AssetBundle;
  */
 class AwesomeMarkerAsset extends AssetBundle
 {
-    public $sourcePath = '@common/extensions/leafletAwesomePlugin/assets';
+    public $sourcePath = '@vendor/2amigos/yii2-leaflet-awesome-plugin/assets';
 
     public $css = ['css/leaflet.awesome-markers.css'];
 
