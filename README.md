@@ -1,11 +1,14 @@
 Awesome Plugin
 ==============
 
-Yii 2 [LeafletJs](http://leafletjs.com/) Plugin to create map icons using [Font Awesome](http://fontawesome.io/) Icons.
+Yii 2 [LeafletJs](http://leafletjs.com/) Plugin to create map icons using [Font Awesome](http://fontawesome.io/) and GlyphIcon Icons.
 
 This Plugin works in conjunction with [LeafLet](https://github.com/2amigos/yii2-leaflet-extension)
-library for [Yii 2](https://github.com/yiisoft/yii2) framework and [Font Awesome](http://fontawesome.io/) iconic font
-and css toolkit.
+library for [Yii 2](https://github.com/yiisoft/yii2) framework, Bootstrap and/or [Font Awesome](http://fontawesome.io/) iconic font and css toolkit. 
+
+In order to make it work with GlyphIcon (included with Bootstrap) or [Font Awesome](http://fontawesome.io/) files you need to add the required files your self.
+
+To swap betwen GlyphIcon (default) and FontAwesome, you just need to modify its prefix. Should work with other Font Toolkits as long as it follows the following class signature: "prefix prefix-iconname".
 
 Installation
 ------------
