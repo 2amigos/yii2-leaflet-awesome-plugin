@@ -1,6 +1,14 @@
 Awesome Plugin
 ==============
 
+[![Latest Version](https://img.shields.io/github/tag/2amigos/yii2-leaflet-awesome-plugin.svg?style=flat-square&label=release)](https://github.com/2amigos/yii2-leaflet-awesome-plugin/tags)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Build Status](https://img.shields.io/travis/2amigos/yii2-leaflet-awesome-plugin/master.svg?style=flat-square)](https://travis-ci.org/2amigos/yii2-leaflet-awesome-plugin)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/2amigos/yii2-leaflet-awesome-plugin.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-leaflet-awesome-plugin/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/2amigos/yii2-leaflet-awesome-plugin.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-leaflet-awesome-plugin)
+[![Total Downloads](https://img.shields.io/packagist/dt/2amigos/yii2-leaflet-awesome-plugin.svg?style=flat-square)](https://packagist.org/packages/2amigos/yii2-leaflet-awesome-plugin)
+
+
 Yii 2 [LeafletJs](http://leafletjs.com/) Plugin to create map icons using [Font Awesome](http://fontawesome.io/) and GlyphIcon Icons.
 
 This Plugin works in conjunction with [LeafLet](https://github.com/2amigos/yii2-leaflet-extension)
